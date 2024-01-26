@@ -1,0 +1,9 @@
+/* Jumbotron  */
+.jumbotron {
+    background-color: rgb(35, 35, 119);
+    color: white;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
